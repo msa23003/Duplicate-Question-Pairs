@@ -4,7 +4,7 @@ This Streamlit application predicts whether two questions are duplicates or not 
 
 ## Screenshot from Streamlit App
 
-<img src="https://github.com/user-attachments/assets/bccc16a6-643d-4c57-bb47-32e4810b0ca6" width="300" /> <img src="https://github.com/user-attachments/assets/a6b5fe84-7c10-4767-94cd-6e6a47a6fbd1" width="300" />
+<img src="https://github.com/user-attachments/assets/bccc16a6-643d-4c57-bb47-32e4810b0ca6" width="500" /> <img src="https://github.com/user-attachments/assets/a6b5fe84-7c10-4767-94cd-6e6a47a6fbd1" width="500" />
 
 
 ## Features
