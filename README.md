@@ -2,9 +2,10 @@
 
 This Streamlit application predicts whether two questions are duplicates or not using a pre-trained machine learning model. The app is designed to help identify similar or identical questions, which is particularly useful in platforms like Q&A websites to avoid redundant content.
 
-## Screenshot from streamlit app
+## Screenshot from Streamlit App
 
-![image](https://github.com/user-attachments/assets/bccc16a6-643d-4c57-bb47-32e4810b0ca6)      ![image](https://github.com/user-attachments/assets/a6b5fe84-7c10-4767-94cd-6e6a47a6fbd1)
+<img src="https://github.com/user-attachments/assets/bccc16a6-643d-4c57-bb47-32e4810b0ca6" width="300" /> <img src="https://github.com/user-attachments/assets/a6b5fe84-7c10-4767-94cd-6e6a47a6fbd1" width="300" />
+
 
 ## Features
 
